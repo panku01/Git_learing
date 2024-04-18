@@ -1,1 +1,2 @@
-# Git_learing
+# GIT 
+This is my first change in git repo.
